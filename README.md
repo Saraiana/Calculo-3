@@ -1,5 +1,5 @@
 # Calculo-3
-Cálculo com 3 variáveis
+Cálculo utilizando 3 variáveis
 
 Escrever um algoritmo que leia os dados de “N” pessoas (nome, sexo, idade e saúde) e informar se está apta ou não para cumprir o serviço militar obrigatório. 
 Informar o total geral de inscritos e os subtotais de aptos e inaptos.
